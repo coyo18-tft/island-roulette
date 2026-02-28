@@ -3,11 +3,13 @@
   import { quadInOut } from 'svelte/easing';
   import type { Writable } from 'svelte/store';
   import { fade, fly } from 'svelte/transition';
+  import { createEventDispatcher } from 'svelte';
 
   export let images: { src: string; name: string }[] = [];
   export let delay = 0;
 
   const reelItems = 25;
+  const dispatch = createEventDispatcher();
   let current: number[] = [-1];
   let currentName = '';
   let spinning = false;
@@ -37,8 +39,11 @@
       {#if i === -1}
         ?
       {:else}
-        <img src={images[i].src} alt={images[i].name} />
+        <a href={images[i].src} target="_blank">
+          <img src={images[i].src} alt={images[i].name} />
+        </a>
       {/if}
+      
     </div>
   {/each}
   </div>
