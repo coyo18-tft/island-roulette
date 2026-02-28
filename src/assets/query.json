@@ -15,7 +15,8 @@
 		{"name":"Miss Kobayashi's Dragon Maid","key":"dragonmaid"},
 		{"name":"OCs","key":"ocs"},
 		{"name":"Plus-Sized Elf","key":"pself"},
-		{"name":"Pokemon","key":"pokemon"}
+		{"name":"Pokemon","key":"pokemon"},
+        {"name":"Rapture OCs","key":"rapture"}
         ]
     }
 }

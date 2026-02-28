@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Abigail",
+		"img": "images/Abigail.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Amazoness",
 		"img": "images/Amazoness.png",
 		"opts": {
@@ -120,6 +130,16 @@
 		}
 	},
 	{
+		"name": "Britney",
+		"img": "images/Britney.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Bunyip",
 		"img": "images/Bunyip.png",
 		"opts": {
@@ -140,6 +160,26 @@
 		}
 	},
 	{
+		"name": "Carmen",
+		"img": "images/Carmen.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
+		"name": "Cathy",
+		"img": "images/Cathy.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Cathyl",
 		"img": "images/Cathyl.png",
 		"opts": {
@@ -150,6 +190,16 @@
 		}
 	},
 	{
+		"name": "Charlie",
+		"img": "images/Charlie.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Cheshire Cat",
 		"img": "images/Cheshire_Cat.png",
 		"opts": {
@@ -157,6 +207,16 @@
 				"demihuman"
 			],
 			"franchise":"mge"
+		}
+	},
+	{
+		"name": "Claudia",
+		"img": "images/Claudia.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
 		}
 	},
 	{
@@ -300,6 +360,16 @@
 		}
 	},
 	{
+		"name": "Eliza",
+		"img": "images/Eliza.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Elma",
 		"img": "images/Elma.png",
 		"opts": {
@@ -337,6 +407,16 @@
 				"human"
 			],
 			"franchise":"misc"
+		}
+	},
+	{
+		"name": "Fatima",
+		"img": "images/Fatima.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
 		}
 	},
 	{
@@ -550,16 +630,6 @@
 		}
 	},
 	{
-		"name": "Satero (Human)",
-		"img": "images/Human_Satero.png",
-		"opts": {
-			"type": [
-				"human"
-			],
-			"franchise":"pself"
-		}
-	},
-	{
 		"name": "Hyena-Chan",
 		"img": "images/Hyena_Chan.png",
 		"opts": {
@@ -610,6 +680,16 @@
 		}
 	},
 	{
+		"name": "Jasmine",
+		"img": "images/Jasmine.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Jessica Rabbit",
 		"img": "images/Jessica_Rabbit.png",
 		"opts": {
@@ -647,6 +727,16 @@
 				"demihuman"
 			],
 			"franchise":"mge"
+		}
+	},
+	{
+		"name": "Katherine",
+		"img": "images/Katherine.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
 		}
 	},
 	{
@@ -750,6 +840,16 @@
 		}
 	},
 	{
+		"name": "Mauri",
+		"img": "images/Mauri.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Medesa",
 		"img": "images/Medesa.png",
 		"opts": {
@@ -820,6 +920,16 @@
 		}
 	},
 	{
+		"name": "Ms. Klein",
+		"img": "images/Ms_Klein.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Nessa",
 		"img": "images/Nessa.png",
 		"opts": {
@@ -880,6 +990,16 @@
 		}
 	},
 	{
+		"name": "Olivia (Shortymom)",
+		"img": "images/Olivia_Shortymom.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Olivia",
 		"img": "images/Olivia.png",
 		"opts": {
@@ -920,6 +1040,16 @@
 		}
 	},
 	{
+		"name": "Patty",
+		"img": "images/Patty.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Plumeria",
 		"img": "images/Plumeria.png",
 		"opts": {
@@ -950,6 +1080,16 @@
 		}
 	},
 	{
+		"name": "Rani",
+		"img": "images/Rani_Jinkomom.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
 		"name": "Ratatoskr",
 		"img": "images/Ratatoskr.png",
 		"opts": {
@@ -957,6 +1097,16 @@
 				"demihuman"
 			],
 			"franchise":"mge"
+		}
+	},
+	{
+		"name": "Roxy",
+		"img": "images/Roxy.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
 		}
 	},
 	{
@@ -985,6 +1135,16 @@
 		"opts": {
 			"type": [
 				"demihuman"
+			],
+			"franchise":"pself"
+		}
+	},
+	{
+		"name": "Satero (Human)",
+		"img": "images/Human_Satero.png",
+		"opts": {
+			"type": [
+				"human"
 			],
 			"franchise":"pself"
 		}
@@ -1087,6 +1247,26 @@
 				"demihuman"
 			],
 			"franchise":"mge"
+		}
+	},
+	{
+		"name": "Valentina",
+		"img": "images/Valentina.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
+		}
+	},
+	{
+		"name": "Victoria",
+		"img": "images/Victoria.png",
+		"opts": {
+			"type": [
+				"demihuman"
+			],
+			"franchise":"rapture"
 		}
 	},
 	{
