@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Amazoness",
-		"img": "/src/assets/images/Amazoness.png",
+		"img": "images/Amazoness.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Ant Arachne",
-		"img": "/src/assets/images/Ant_Arachne.png",
+		"img": "images/Ant_Arachne.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Anubis",
-		"img": "/src/assets/images/Anubis.png",
+		"img": "images/Anubis.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Apophis",
-		"img": "/src/assets/images/Apophis.png",
+		"img": "images/Apophis.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "Balrog",
-		"img": "/src/assets/images/Balrog.png",
+		"img": "images/Balrog.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -51,7 +51,7 @@
 	},
 	{
 		"name": "Barghest",
-		"img": "/src/assets/images/Barghest.png",
+		"img": "images/Barghest.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "Barometz",
-		"img": "/src/assets/images/Barometz.png",
+		"img": "images/Barometz.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -71,7 +71,7 @@
 	},
 	{
 		"name": "BeelStarmon",
-		"img": "/src/assets/images/BeelStarmon.png",
+		"img": "images/BeelStarmon.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -81,7 +81,7 @@
 	},
 	{
 		"name": "Beelzebub",
-		"img": "/src/assets/images/Beelzebub.png",
+		"img": "images/Beelzebub.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -91,7 +91,7 @@
 	},
 	{
 		"name": "Beelzebub (Demon)",
-		"img": "/src/assets/images/Beelzebub_Helltaker.png",
+		"img": "images/Beelzebub_Helltaker.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -101,7 +101,7 @@
 	},
 	{
 		"name": "Bicorn",
-		"img": "/src/assets/images/Bicorn.png",
+		"img": "images/Bicorn.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -111,7 +111,7 @@
 	},
 	{
 		"name": "Bogey",
-		"img": "/src/assets/images/Bogey.png",
+		"img": "images/Bogey.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -121,7 +121,7 @@
 	},
 	{
 		"name": "Bunyip",
-		"img": "/src/assets/images/Bunyip.png",
+		"img": "images/Bunyip.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -131,7 +131,7 @@
 	},
 	{
 		"name": "Cara",
-		"img": "/src/assets/images/Cara.png",
+		"img": "images/Cara.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -141,7 +141,7 @@
 	},
 	{
 		"name": "Cathyl",
-		"img": "/src/assets/images/Cathyl.png",
+		"img": "images/Cathyl.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -151,7 +151,7 @@
 	},
 	{
 		"name": "Cheshire Cat",
-		"img": "/src/assets/images/Cheshire_Cat.png",
+		"img": "images/Cheshire_Cat.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -161,7 +161,7 @@
 	},
 	{
 		"name": "Cogita",
-		"img": "/src/assets/images/Cogita.png",
+		"img": "images/Cogita.png",
 		"opts": {
 			"type": [
 				"human"
@@ -171,7 +171,7 @@
 	},
 	{
 		"name": "Cynthia",
-		"img": "/src/assets/images/Cynthia.png",
+		"img": "images/Cynthia.png",
 		"opts": {
 			"type": [
 				"human"
@@ -181,7 +181,7 @@
 	},
 	{
 		"name": "Dark Mage",
-		"img": "/src/assets/images/Dark_Mage.png",
+		"img": "images/Dark_Mage.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -191,7 +191,7 @@
 	},
 	{
 		"name": "Delia Ketchum",
-		"img": "/src/assets/images/Delia_Ketchum.png",
+		"img": "images/Delia_Ketchum.png",
 		"opts": {
 			"type": [
 				"human"
@@ -201,7 +201,7 @@
 	},
 	{
 		"name": "Demon",
-		"img": "/src/assets/images/Demon.png",
+		"img": "images/Demon.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -211,7 +211,7 @@
 	},
 	{
 		"name": "Devil Bug",
-		"img": "/src/assets/images/Devilbug.png",
+		"img": "images/Devilbug.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -221,7 +221,7 @@
 	},
 	{
 		"name": "Dexter's Mom",
-		"img": "/src/assets/images/Dexters_Mom.png",
+		"img": "images/Dexters_Mom.png",
 		"opts": {
 			"type": [
 				"human"
@@ -231,7 +231,7 @@
 	},
 	{
 		"name": "Dorome",
-		"img": "/src/assets/images/Dorome.png",
+		"img": "images/Dorome.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -241,7 +241,7 @@
 	},
 	{
 		"name": "Dragon Zombie",
-		"img": "/src/assets/images/Dragon_Zombie.png",
+		"img": "images/Dragon_Zombie.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -251,7 +251,7 @@
 	},
 	{
 		"name": "Drasna",
-		"img": "/src/assets/images/Drasna.png",
+		"img": "images/Drasna.png",
 		"opts": {
 			"type": [
 				"human"
@@ -261,7 +261,7 @@
 	},
 	{
 		"name": "Dryad",
-		"img": "/src/assets/images/Dryad.png",
+		"img": "images/Dryad.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -271,7 +271,7 @@
 	},
 	{
 		"name": "Dullahan",
-		"img": "/src/assets/images/Dullahan.png",
+		"img": "images/Dullahan.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -281,7 +281,7 @@
 	},
 	{
 		"name": "Echidna",
-		"img": "/src/assets/images/Echidna.png",
+		"img": "images/Echidna.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -291,7 +291,7 @@
 	},
 	{
 		"name": "Elfuda",
-		"img": "/src/assets/images/Elfuda.png",
+		"img": "images/Elfuda.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -301,7 +301,7 @@
 	},
 	{
 		"name": "Elma",
-		"img": "/src/assets/images/Elma.png",
+		"img": "images/Elma.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -311,7 +311,7 @@
 	},
 	{
 		"name": "Esunami",
-		"img": "/src/assets/images/Esunami.png",
+		"img": "images/Esunami.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -321,7 +321,7 @@
 	},
 	{
 		"name": "Fairy",
-		"img": "/src/assets/images/Fairy.png",
+		"img": "images/Fairy.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -331,7 +331,7 @@
 	},
 	{
 		"name": "Falin Touden",
-		"img": "/src/assets/images/Falin_Touden.png",
+		"img": "images/Falin_Touden.png",
 		"opts": {
 			"type": [
 				"human"
@@ -341,7 +341,7 @@
 	},
 	{
 		"name": "Fran",
-		"img": "/src/assets/images/Fran.png",
+		"img": "images/Fran.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -351,7 +351,7 @@
 	},
 	{
 		"name": "Gandharva",
-		"img": "/src/assets/images/Gandharva.png",
+		"img": "images/Gandharva.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -361,7 +361,7 @@
 	},
 	{
 		"name": "Gazer",
-		"img": "/src/assets/images/Gazer.png",
+		"img": "images/Gazer.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -371,7 +371,7 @@
 	},
 	{
 		"name": "Giant Ant",
-		"img": "/src/assets/images/Giant_Ant.png",
+		"img": "images/Giant_Ant.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -381,7 +381,7 @@
 	},
 	{
 		"name": "Girtablilu",
-		"img": "/src/assets/images/Girtablilu.png",
+		"img": "images/Girtablilu.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -391,7 +391,7 @@
 	},
 	{
 		"name": "Gnome",
-		"img": "/src/assets/images/Gnome.png",
+		"img": "images/Gnome.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -401,7 +401,7 @@
 	},
 	{
 		"name": "Goblin",
-		"img": "/src/assets/images/Goblin.png",
+		"img": "images/Goblin.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -411,7 +411,7 @@
 	},
 	{
 		"name": "Gonda",
-		"img": "/src/assets/images/Gonda.png",
+		"img": "images/Gonda.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -421,7 +421,7 @@
 	},
 	{
 		"name": "Gorgon (Fate)",
-		"img": "/src/assets/images/Gorgon.png",
+		"img": "images/Gorgon.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -431,7 +431,7 @@
 	},
 	{
 		"name": "Greeta",
-		"img": "/src/assets/images/Greeta.png",
+		"img": "images/Greeta.png",
 		"opts": {
 			"type": [
 				"human"
@@ -441,7 +441,7 @@
 	},
 	{
 		"name": "Gremlin",
-		"img": "/src/assets/images/Gremlin.png",
+		"img": "images/Gremlin.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -451,7 +451,7 @@
 	},
 	{
 		"name": "Grizzly",
-		"img": "/src/assets/images/Grizzly.png",
+		"img": "images/Grizzly.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -461,7 +461,7 @@
 	},
 	{
 		"name": "Gyoubu Danuki",
-		"img": "/src/assets/images/Gyoubu_Danuki.png",
+		"img": "images/Gyoubu_Danuki.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -471,7 +471,7 @@
 	},
 	{
 		"name": "Haibara Tatsumi",
-		"img": "/src/assets/images/Haibara_Tatsumi.png",
+		"img": "images/Haibara_Tatsumi.png",
 		"opts": {
 			"type": [
 				"human"
@@ -481,7 +481,7 @@
 	},
 	{
 		"name": "Hakutaku",
-		"img": "/src/assets/images/Hakutaku.png",
+		"img": "images/Hakutaku.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -491,7 +491,7 @@
 	},
 	{
 		"name": "Helen Parr",
-		"img": "/src/assets/images/Helen_Parr.png",
+		"img": "images/Helen_Parr.png",
 		"opts": {
 			"type": [
 				"human"
@@ -501,7 +501,7 @@
 	},
 	{
 		"name": "Hellhound",
-		"img": "/src/assets/images/Hellhound.png",
+		"img": "images/Hellhound.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -511,7 +511,7 @@
 	},
 	{
 		"name": "Hex Maniac (ZA)",
-		"img": "/src/assets/images/Hex_Maniac.png",
+		"img": "images/Hex_Maniac.png",
 		"opts": {
 			"type": [
 				"human"
@@ -521,7 +521,7 @@
 	},
 	{
 		"name": "High Orc",
-		"img": "/src/assets/images/High_Orc.png",
+		"img": "images/High_Orc.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -531,7 +531,7 @@
 	},
 	{
 		"name": "Hinata (Naruto)",
-		"img": "/src/assets/images/Hinata.png",
+		"img": "images/Hinata.png",
 		"opts": {
 			"type": [
 				"human"
@@ -541,7 +541,7 @@
 	},
 	{
 		"name": "Hitomi",
-		"img": "/src/assets/images/Hitomi.png",
+		"img": "images/Hitomi.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -551,7 +551,7 @@
 	},
 	{
 		"name": "Satero (Human)",
-		"img": "/src/assets/images/Human_Satero.png",
+		"img": "images/Human_Satero.png",
 		"opts": {
 			"type": [
 				"human"
@@ -561,7 +561,7 @@
 	},
 	{
 		"name": "Hyena-Chan",
-		"img": "/src/assets/images/Hyena_Chan.png",
+		"img": "images/Hyena_Chan.png",
 		"opts": {
 			"type": [
 				"human"
@@ -571,7 +571,7 @@
 	},
 	{
 		"name": "Ibuki (Fate)",
-		"img": "/src/assets/images/Ibuki.png",
+		"img": "images/Ibuki.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -581,7 +581,7 @@
 	},
 	{
 		"name": "Ilulu",
-		"img": "/src/assets/images/Ilulu.png",
+		"img": "images/Ilulu.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -591,7 +591,7 @@
 	},
 	{
 		"name": "Inko Midoriya",
-		"img": "/src/assets/images/Inko_Midoriya.png",
+		"img": "images/Inko_Midoriya.png",
 		"opts": {
 			"type": [
 				"human"
@@ -601,7 +601,7 @@
 	},
 	{
 		"name": "Jabberwock",
-		"img": "/src/assets/images/Jabberwock.png",
+		"img": "images/Jabberwock.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -611,7 +611,7 @@
 	},
 	{
 		"name": "Jessica Rabbit",
-		"img": "/src/assets/images/Jessica_Rabbit.png",
+		"img": "images/Jessica_Rabbit.png",
 		"opts": {
 			"type": [
 				"human"
@@ -621,7 +621,7 @@
 	},
 	{
 		"name": "Jessie",
-		"img": "/src/assets/images/Jessie.png",
+		"img": "images/Jessie.png",
 		"opts": {
 			"type": [
 				"human"
@@ -631,7 +631,7 @@
 	},
 	{
 		"name": "Jinko",
-		"img": "/src/assets/images/Jinko.png",
+		"img": "images/Jinko.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -641,7 +641,7 @@
 	},
 	{
 		"name": "Kappa",
-		"img": "/src/assets/images/Kappa.png",
+		"img": "images/Kappa.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -651,7 +651,7 @@
 	},
 	{
 		"name": "Kejourou",
-		"img": "/src/assets/images/Kejourou.png",
+		"img": "images/Kejourou.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -661,7 +661,7 @@
 	},
 	{
 		"name": "Kobayashi",
-		"img": "/src/assets/images/Kobayashi.png",
+		"img": "images/Kobayashi.png",
 		"opts": {
 			"type": [
 				"human"
@@ -671,7 +671,7 @@
 	},
 	{
 		"name": "Krampus",
-		"img": "/src/assets/images/Krampus.png",
+		"img": "images/Krampus.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -681,7 +681,7 @@
 	},
 	{
 		"name": "Kulve Taroth",
-		"img": "/src/assets/images/Kulve_Taroth.png",
+		"img": "images/Kulve_Taroth.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -691,7 +691,7 @@
 	},
 	{
 		"name": "Kuroeda",
-		"img": "/src/assets/images/Kuroeda.png",
+		"img": "images/Kuroeda.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -701,7 +701,7 @@
 	},
 	{
 		"name": "Lana's Mom",
-		"img": "/src/assets/images/Lanas_Mom.png",
+		"img": "images/Lanas_Mom.png",
 		"opts": {
 			"type": [
 				"human"
@@ -711,7 +711,7 @@
 	},
 	{
 		"name": "Lich",
-		"img": "/src/assets/images/Lich.png",
+		"img": "images/Lich.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -721,7 +721,7 @@
 	},
 	{
 		"name": "Lucoa",
-		"img": "/src/assets/images/Lucoa.png",
+		"img": "images/Lucoa.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Manticore",
-		"img": "/src/assets/images/Manticore.png",
+		"img": "images/Manticore.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -741,7 +741,7 @@
 	},
 	{
 		"name": "Marina",
-		"img": "/src/assets/images/Marina.png",
+		"img": "images/Marina.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -751,7 +751,7 @@
 	},
 	{
 		"name": "Medesa",
-		"img": "/src/assets/images/Medesa.png",
+		"img": "images/Medesa.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -761,7 +761,7 @@
 	},
 	{
 		"name": "Melony",
-		"img": "/src/assets/images/Melony.png",
+		"img": "images/Melony.png",
 		"opts": {
 			"type": [
 				"human"
@@ -771,7 +771,7 @@
 	},
 	{
 		"name": "Minotaur",
-		"img": "/src/assets/images/Minotaur.png",
+		"img": "images/Minotaur.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -781,7 +781,7 @@
 	},
 	{
 		"name": "Mirko",
-		"img": "/src/assets/images/Mirko.png",
+		"img": "images/Mirko.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -791,7 +791,7 @@
 	},
 	{
 		"name": "Misato",
-		"img": "/src/assets/images/Misato.png",
+		"img": "images/Misato.png",
 		"opts": {
 			"type": [
 				"human"
@@ -801,7 +801,7 @@
 	},
 	{
 		"name": "Misty",
-		"img": "/src/assets/images/Misty.png",
+		"img": "images/Misty.png",
 		"opts": {
 			"type": [
 				"human"
@@ -811,7 +811,7 @@
 	},
 	{
 		"name": "Molly",
-		"img": "/src/assets/images/Molly.png",
+		"img": "images/Molly.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -821,7 +821,7 @@
 	},
 	{
 		"name": "Nessa",
-		"img": "/src/assets/images/Nessa.png",
+		"img": "images/Nessa.png",
 		"opts": {
 			"type": [
 				"human"
@@ -831,7 +831,7 @@
 	},
 	{
 		"name": "Nurse Joy",
-		"img": "/src/assets/images/Nurse_Joy.png",
+		"img": "images/Nurse_Joy.png",
 		"opts": {
 			"type": [
 				"human"
@@ -841,7 +841,7 @@
 	},
 	{
 		"name": "Ocelomeh",
-		"img": "/src/assets/images/Ocelomeh.png",
+		"img": "images/Ocelomeh.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -851,7 +851,7 @@
 	},
 	{
 		"name": "Officer Jenny",
-		"img": "/src/assets/images/Officer_Jenny.png",
+		"img": "images/Officer_Jenny.png",
 		"opts": {
 			"type": [
 				"human"
@@ -861,7 +861,7 @@
 	},
 	{
 		"name": "Oga",
-		"img": "/src/assets/images/Oga.png",
+		"img": "images/Oga.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -871,7 +871,7 @@
 	},
 	{
 		"name": "Oku",
-		"img": "/src/assets/images/Oku.png",
+		"img": "images/Oku.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -881,7 +881,7 @@
 	},
 	{
 		"name": "Olivia",
-		"img": "/src/assets/images/Olivia.png",
+		"img": "images/Olivia.png",
 		"opts": {
 			"type": [
 				"human"
@@ -891,7 +891,7 @@
 	},
 	{
 		"name": "Orc",
-		"img": "/src/assets/images/Orc.png",
+		"img": "images/Orc.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -901,7 +901,7 @@
 	},
 	{
 		"name": "Otis",
-		"img": "/src/assets/images/Otis.png",
+		"img": "images/Otis.png",
 		"opts": {
 			"type": [
 				"human"
@@ -911,7 +911,7 @@
 	},
 	{
 		"name": "Paldea Mom",
-		"img": "/src/assets/images/Paldea_Mom.png",
+		"img": "images/Paldea_Mom.png",
 		"opts": {
 			"type": [
 				"human"
@@ -921,7 +921,7 @@
 	},
 	{
 		"name": "Plumeria",
-		"img": "/src/assets/images/Plumeria.png",
+		"img": "images/Plumeria.png",
 		"opts": {
 			"type": [
 				"human"
@@ -931,7 +931,7 @@
 	},
 	{
 		"name": "Raiju",
-		"img": "/src/assets/images/Raiju.png",
+		"img": "images/Raiju.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -941,7 +941,7 @@
 	},
 	{
 		"name": "Rangiku",
-		"img": "/src/assets/images/Rangiku.png",
+		"img": "images/Rangiku.png",
 		"opts": {
 			"type": [
 				"human"
@@ -951,7 +951,7 @@
 	},
 	{
 		"name": "Ratatoskr",
-		"img": "/src/assets/images/Ratatoskr.png",
+		"img": "images/Ratatoskr.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -961,7 +961,7 @@
 	},
 	{
 		"name": "Ryoko",
-		"img": "/src/assets/images/Ryoko.png",
+		"img": "images/Ryoko.png",
 		"opts": {
 			"type": [
 				"human"
@@ -971,7 +971,7 @@
 	},
 	{
 		"name": "Salamander",
-		"img": "/src/assets/images/Salamander.png",
+		"img": "images/Salamander.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -981,7 +981,7 @@
 	},
 	{
 		"name": "Satero",
-		"img": "/src/assets/images/Satero.png",
+		"img": "images/Satero.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -991,7 +991,7 @@
 	},
 	{
 		"name": "Satyros",
-		"img": "/src/assets/images/Satyros.png",
+		"img": "images/Satyros.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -1001,7 +1001,7 @@
 	},
 	{
 		"name": "Selkie",
-		"img": "/src/assets/images/Selkie.png",
+		"img": "images/Selkie.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -1011,7 +1011,7 @@
 	},
 	{
 		"name": "Shelly",
-		"img": "/src/assets/images/Shelly.png",
+		"img": "images/Shelly.png",
 		"opts": {
 			"type": [
 				"human"
@@ -1021,7 +1021,7 @@
 	},
 	{
 		"name": "Skyla",
-		"img": "/src/assets/images/Skyla.png",
+		"img": "images/Skyla.png",
 		"opts": {
 			"type": [
 				"human"
@@ -1031,7 +1031,7 @@
 	},
 	{
 		"name": "Sonia",
-		"img": "/src/assets/images/Sonia.png",
+		"img": "images/Sonia.png",
 		"opts": {
 			"type": [
 				"human"
@@ -1041,7 +1041,7 @@
 	},
 	{
 		"name": "Sue Sullivan",
-		"img": "/src/assets/images/Sue_Sullivan.png",
+		"img": "images/Sue_Sullivan.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -1051,7 +1051,7 @@
 	},
 	{
 		"name": "Tohru",
-		"img": "/src/assets/images/Tohru.png",
+		"img": "images/Tohru.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -1061,7 +1061,7 @@
 	},
 	{
 		"name": "Tsunade",
-		"img": "/src/assets/images/Tsunade.png",
+		"img": "images/Tsunade.png",
 		"opts": {
 			"type": [
 				"human"
@@ -1071,7 +1071,7 @@
 	},
 	{
 		"name": "Unagi Joro",
-		"img": "/src/assets/images/Unagi_Joro.png",
+		"img": "images/Unagi_Joro.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -1081,7 +1081,7 @@
 	},
 	{
 		"name": "Ushi-Oni",
-		"img": "/src/assets/images/Ushi-Oni.png",
+		"img": "images/Ushi-Oni.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -1091,7 +1091,7 @@
 	},
 	{
 		"name": "Werebat",
-		"img": "/src/assets/images/Werebat.png",
+		"img": "images/Werebat.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -1101,7 +1101,7 @@
 	},
 	{
 		"name": "Wererabbit",
-		"img": "/src/assets/images/Wererabbit.png",
+		"img": "images/Wererabbit.png",
 		"opts": {
 			"type": [
 				"demihuman"
@@ -1111,7 +1111,7 @@
 	},
 	{
 		"name": "Wicke",
-		"img": "/src/assets/images/Wicke.png",
+		"img": "images/Wicke.png",
 		"opts": {
 			"type": [
 				"human"
