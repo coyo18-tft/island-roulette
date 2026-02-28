@@ -9,7 +9,7 @@
   let options = getDefaultOptions();
   let optOpen = false;
   let spinning = false;
-  let images = mamano.map(m => import.meta.env.BASE_URL + m.img);
+  let images = mamano.map(m =>({ src: m.img, name: m.name }));
 
   function getQualifyingMamano(type: string[], franchise: string[]) {
     const result = mamano.map((m, i) => type.some(t => m.opts.type.includes(t)) && franchise.includes(m.opts.franchise) ? i : -1).filter(i => i !== -1);
