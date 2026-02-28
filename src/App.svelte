@@ -52,6 +52,7 @@
 {/if}
 
 <style>
-  .reels { display:flex; gap:8px; justify-content:center; }
+  .app { min-height: 100vh; display: flex; flex-direction: column; justify-content: center; /* vertical center */ align-items: center; /* horizontal center */ gap: 20px;}
+  .reels { display:flex; gap:8px; justify-content:center; align-items: center; flex-wrap: wrap; gap: 16px;}
   .controls { display:flex; flex-direction: row; gap:8px; justify-content: center; align-items: center; margin-top:24px; }
 </style>
