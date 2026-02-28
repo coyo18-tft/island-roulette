@@ -1,0 +1,21 @@
+{
+    "type":{
+        "name":"Type",
+        "sub":[
+		{"name":"Human","key":"human"},
+		{"name":"Demi-Human","key":"demihuman"}
+        ]
+    },
+    "franchise":{
+        "name":"Franchise",
+        "sub":[
+		{"name":"Fate","key":"fate"},
+		{"name":"Misc","key":"misc"},
+		{"name":"MGE","key":"mge"},
+		{"name":"Miss Kobayashi's Dragon Maid","key":"dragonmaid"},
+		{"name":"OCs","key":"ocs"},
+		{"name":"Plus-Sized Elf","key":"pself"},
+		{"name":"Pokemon","key":"pokemon"}
+        ]
+    }
+}
